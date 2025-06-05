@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kille\\source\\repos\\space\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|c:\\users\\kille\\source\\repos\\space\\space\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|solutionrelative:space\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|c:\\users\\kille\\source\\repos\\space\\space\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|solutionrelative:space\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|c:\\users\\kille\\source\\repos\\space\\space\\mapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|solutionrelative:space\\mapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|c:\\users\\kille\\source\\repos\\space\\space\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|solutionrelative:space\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|c:\\users\\kille\\source\\repos\\space\\space\\csvsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DE306-013B-4093-97A7-DB174A01C738}|space\\space.csproj|solutionrelative:space\\csvsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mail.cs",
+              "DocumentMoniker": "C:\\Users\\kille\\source\\repos\\space\\space\\mail.cs",
+              "RelativeDocumentMoniker": "space\\mail.cs",
+              "ToolTip": "C:\\Users\\kille\\source\\repos\\space\\space\\mail.cs",
+              "RelativeToolTip": "space\\mail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:31:25.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CsvSaver.cs",
+              "DocumentMoniker": "C:\\Users\\kille\\source\\repos\\space\\space\\CsvSaver.cs",
+              "RelativeDocumentMoniker": "space\\CsvSaver.cs",
+              "ToolTip": "C:\\Users\\kille\\source\\repos\\space\\space\\CsvSaver.cs",
+              "RelativeToolTip": "space\\CsvSaver.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:30:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pathfinder.cs",
+              "DocumentMoniker": "C:\\Users\\kille\\source\\repos\\space\\space\\Pathfinder.cs",
+              "RelativeDocumentMoniker": "space\\Pathfinder.cs",
+              "ToolTip": "C:\\Users\\kille\\source\\repos\\space\\space\\Pathfinder.cs",
+              "RelativeToolTip": "space\\Pathfinder.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:29:38.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapManager.cs",
+              "DocumentMoniker": "C:\\Users\\kille\\source\\repos\\space\\space\\MapManager.cs",
+              "RelativeDocumentMoniker": "space\\MapManager.cs",
+              "ToolTip": "C:\\Users\\kille\\source\\repos\\space\\space\\MapManager.cs",
+              "RelativeToolTip": "space\\MapManager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:28:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kille\\source\\repos\\space\\space\\Program.cs",
+              "RelativeDocumentMoniker": "space\\Program.cs",
+              "ToolTip": "C:\\Users\\kille\\source\\repos\\space\\space\\Program.cs",
+              "RelativeToolTip": "space\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:23:40.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

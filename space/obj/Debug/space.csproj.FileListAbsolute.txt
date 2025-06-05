@@ -1,0 +1,8 @@
+C:\Users\kille\source\repos\space\space\obj\Debug\space.csproj.AssemblyReference.cache
+C:\Users\kille\source\repos\space\space\obj\Debug\space.csproj.CoreCompileInputs.cache
+C:\Users\kille\source\repos\space\space\bin\Debug\space.exe.config
+C:\Users\kille\source\repos\space\space\bin\Debug\space.exe
+C:\Users\kille\source\repos\space\space\bin\Debug\space.pdb
+C:\Users\kille\source\repos\space\space\obj\Debug\space.exe
+C:\Users\kille\source\repos\space\space\obj\Debug\space.pdb
+C:\Users\kille\source\repos\space\space\obj\Debug\space.exe.config
